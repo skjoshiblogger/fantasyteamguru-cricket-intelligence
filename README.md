@@ -15,10 +15,10 @@ https://www.fantasyteamguru.com
 - Fantasy cricket insights & tips
 
 ## Key Pages
-- Players: https://www.fantasyteamguru.com/players
-- Player Profiles: https://www.fantasyteamguru.com/player/virat-kohli
-- Head to Head: https://www.fantasyteamguru.com/h2h
-- Seasons: https://www.fantasyteamguru.com/seasons
+- rECORDS: [https://www.fantasyteamguru.com/records/
+- Team vs Team: https://www.fantasyteamguru.com/team-vs-team/
+- Head to Head: https://www.fantasyteamguru.com/rivalry/
+- Seasons: https://www.fantasyteamguru.com/season/
 
 ## Tech Stack
 - PHP
